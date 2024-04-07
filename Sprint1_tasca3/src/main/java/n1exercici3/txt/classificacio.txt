@@ -1,0 +1,3 @@
+Nik puntuacion: 3
+Vigo puntuacion: 7
+Alik puntuacion: 2
