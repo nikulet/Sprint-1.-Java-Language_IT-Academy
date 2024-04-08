@@ -1,0 +1,33 @@
+Listado de los directorio/s y archivos en orden alfabético : 
+
+(F)Anna.txt - Última modificación: 26/03/2024 12:35:00
+
+(D)carpetas - Última modificación: 25/03/2024 06:24:46
+(F)Algoritmo.txt - Última modificación: 24/03/2024 03:50:20
+(F)Lista.txt - Última modificación: 26/03/2024 13:29:55
+(F)Nuevo Word.docx - Última modificación: 25/03/2024 00:20:46
+(F)Trabajos.txt - Última modificación: 24/03/2024 03:50:34
+
+(D)textoms - Última modificación: 25/03/2024 06:11:24
+(F)Algoritmo.txt - Última modificación: 24/03/2024 03:50:20
+(F)Compras.txt - Última modificación: 25/03/2024 05:18:56
+(F)Lista.txt - Última modificación: 24/03/2024 03:50:01
+(F)Nuevo Word.docx - Última modificación: 25/03/2024 00:20:46
+(F)Universidad.txt - Última modificación: 26/03/2024 13:30:20
+
+(D)textos - Última modificación: 25/03/2024 01:23:37
+(F)Compras.txt - Última modificación: 26/03/2024 13:30:37
+(F)Trabajo.txt - Última modificación: 24/03/2024 03:50:34
+(F)Word.docx - Última modificación: 25/03/2024 00:20:46
+
+(D)textot - Última modificación: 25/03/2024 01:21:22
+(F)Compras.txt - Última modificación: 24/03/2024 03:51:01
+(F)Lista.txt - Última modificación: 24/03/2024 03:50:01
+(F)Nuevo Word.docx - Última modificación: 25/03/2024 00:20:46
+(F)Trabajo.txt - Última modificación: 26/03/2024 13:30:59
+(F)Ventas.txt - Última modificación: 24/03/2024 03:50:20
+
+(D)textr - Última modificación: 26/03/2024 13:08:59
+(F)Algoritmo.txt - Última modificación: 24/03/2024 03:50:20
+(F)Coche.txt - Última modificación: 26/03/2024 13:31:26
+(F)Driver.txt - Última modificación: 26/03/2024 13:09:18
