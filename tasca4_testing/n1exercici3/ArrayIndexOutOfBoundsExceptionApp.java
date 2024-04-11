@@ -1,13 +1,13 @@
 package n1exercici3;
 
 public class ArrayIndexOutOfBoundsExceptionApp {
+    static int[] array = {55, 14, 99, 71, 29, 20};
 
-    public void indexArrayException() throws ArrayIndexOutOfBoundsException {
-        int[] array = new int[3];
-        array[0] = 1;
-        array[0] = 2;
-        array[0] = 3;
-        int value = array[4];
+    public void throwArrayIndexOutOfBoundsException(int index) {
+        if (index < 0 || index >= array.length) {
+            throw new ArrayIndexOutOfBoundsException("La pocicion " + index + " de la lista no es valida o no existe.");
+        }
+        System.out.println("En la pocicion " + (index + 1) + " de la lista es el numero: " + array[index]);
     }
 
 
